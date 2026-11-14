@@ -7,7 +7,7 @@
 **Official Problem Statement:**
 > *"Automate candidate shortlisting while minimizing bias using fair classification models."*
 
----
+🌐 **Live Website:** [Open FairHire India](https://fairhire-india-cuymrdwvj5zrk9cqrhfbcn.streamlit.app/)
 
 ## 1. Executive Summary & Vision
 
