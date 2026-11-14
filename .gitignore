@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+.venv/
+env.bak/
+venv.bak/
+
+# Streamlit run files
+.streamlit/secrets.toml
+
+# Pytest / coverage cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Ignore SQLite db journal/lock files
+*.db-journal
+*.db-wal
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+.streamlit/secrets.toml
